@@ -1,0 +1,28 @@
+/*styles*/
+body{font-family:Arial,sans-serif;font-size:12pt;padding:5%}
+h1,h2,h3{font-family:"Times New Roman", serif}
+h1{text-align:center}
+ul.resume li{list-style-type:none}
+table{border:1px solid;border-collapse: collapse;}
+td,th{border:1px solid; padding:5px}
+span.nobr {white-space:nowrap}
+.grey, .grey A:link, .grey A:visited {color:#999999}
+#th1 {width:4em;}
+#th2 {width:4em;}
+#th3 {width:2em;}
+#back {position:absolute; left:20px; top:50px;}
+.day{text-align:center; font-style:italic}
+
+
+/*colors*/
+body{background-color:#EEEEAA;}
+/*h1,h2,h3{color:#000055}
+table.chronobig{border-color:#3333AA;}
+table.chronobig td,th{border-color:#3333AA;}
+ */
+h1,h2,h3{color:#3A5700}
+table, td, th{border-color:#9b8a37;}
+th{background-color:#E9D572;}
+.day{background-color:#C9DE9F;}
+
+
